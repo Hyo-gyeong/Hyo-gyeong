@@ -25,10 +25,11 @@
 
 ## 📂 주요 프로젝트
 
-| 프로젝트명 | 설명 | 기술 | URL|
-|------------|------|------|------|
-| **웹 기반 채팅 서비스** | Spring Boot 기반 채팅 기능 구현 | SpringBoot, OracleDB | |
-| **웹 기반 좌석 정보 제공 서비스** | 공연장 좌석 시야 정보 제공 및 커뮤니티 구현 | Django, MySQL |https://github.com/SEEYA-ARCHIVE/SEEYA-ARCHIVE-BACK|
+| 프로젝트명 | 설명 | 기술 | URL|기타|
+|------------|------|------|------|------|
+| **웹 기반 채팅 서비스** | Spring Boot 기반 채팅 기능 구현 | SpringBoot, OracleDB | https://github.com/Hyo-gyeong/Spring_personal_pj|  |
+| **웹 기반 좌석 정보 제공 서비스** | 공연장 좌석 시야 정보 제공 및 커뮤니티 구현 | Django, MySQL |https://github.com/SEEYA-ARCHIVE/SEEYA-ARCHIVE-BACK|  |
+| **현대이지웰 자바 풀스택 개발자 부트캠프** | e커머스 개발자 취업을 위한 아카데미 | HTML,CSS,JS,JQuery,Java,Oracle SQL,SpringBoot |https://github.com/Hyo-gyeong/hyundaiezwel-front <br> [https://github.com/SEEYA-ARCHIVE/SEEYA-ARCHIVE-BACK](https://github.com/Hyo-gyeong/hyundaiezwel-back-java) <br> https://github.com/Hyo-gyeong/hyundaiezwel-back-sql |진행중 (25.8 ~ 25.12)|
 
 ➡️ 각 프로젝트는 개별 레포지토리에 정리되어 있으며, 리드미를 통해 자세히 확인할 수 있습니다.
 
