@@ -46,7 +46,6 @@
 - 정보처리기사
 - SQLD
 - TOEIC 910
-- TOEFE(ibt) 84
 ---
 
 ## 📫 Contact
