@@ -40,7 +40,13 @@
 - 🧩 Oracle Engineer OJT
 - 🧑‍💻 협업과 커뮤니케이션을 중요하게 생각하며 성장 지향적입니다  
 - 💬 새로운 기술과 도전을 즐깁니다  
+---
 
+## 🗃️ Certificates
+- 정보처리기사
+- SQLD
+- TOEIC 910
+- TOEFE(ibt) 84
 ---
 
 ## 📫 Contact
